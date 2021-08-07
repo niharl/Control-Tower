@@ -15,7 +15,7 @@ To run, simply run the "control tower.py" file.
 ## Gameplay
 Aircraft randomly appear at edges of the screen.  As the game progresses, the frequency with which new aircraft appear increases.  The task is to draw paths guiding aircraft to the runways and helipad whilst avoiding crashes.  To create a landing path, click on an aicraft/helicopter and draw a path.  If the path turns white, this means that the path will lead to a landing. If it remains red, then the aircraft will continue flying in a straight line after it has completed the path.  Aircraft are automatically deflected back into the centre if they reach the edge of the screen.
 
-To pause, press P or SPACE, to exit a game and return to the homepage, press ESCAPE or H.
+To pause, press P or SPACE.  To exit a game and return to the homepage, press ESCAPE or H.
 
 Your score is the number of aircraft succesfully landed.  If a crash occurs, the game ends.
 
