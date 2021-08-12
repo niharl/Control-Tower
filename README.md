@@ -2,7 +2,7 @@
 A Pygame replica of the Android/iOS <a href = "https://play.google.com/store/apps/developer?id=Bojan+Skaljac&hl=en_GB&gl=US"> Control Tower </a>game
 
 ## Set-up
-This version of Tetris runs on Python 3.8 and Pygame 2.0. 
+This game runs on Python 3.8 and Pygame 2.0. 
 
 To install Pygame, run the following command in the terminal:
 
